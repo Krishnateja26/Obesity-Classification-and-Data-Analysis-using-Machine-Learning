@@ -45,12 +45,3 @@ The dataset had 17 attributes, many of which have acronyms for ease of coding, s
 
 This project also gives the conclusion to what kind of eating habit and physical condition variables are most related to obesity levels 
 
-1.1 Import Libraries
-1.2 Import Data
-1.3 Quick overview
-1.4 Summary of the data
-2. Exploratory Data Analysis
-3. Pre-Processing
-4. Model building
-5. Prediction on Test data
-
